@@ -1,0 +1,16 @@
+{
+  "user": {
+    "data": {
+      "username": "zhangshan",
+      "pwd": "123",
+      "role": "admin"
+    },
+    "status": "200",
+    "token": "1sdadsa",
+    "msg": "成功"
+  },
+  "loguser": {
+    "msg": "登出成功",
+    "status": "200"
+  }
+}
