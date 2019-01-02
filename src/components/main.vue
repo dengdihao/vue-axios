@@ -4,7 +4,6 @@
     <img :src="imgpath" alt>
     <input type="file" @change="changeImage($event)" accept="image/gif,image/jpeg,image/jpg,image/png">
     <button @click="logout">登出</button>
-    <button @click="logout">登出</button>
   </div>
 </template>
 

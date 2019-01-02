@@ -4,5 +4,4 @@ export default {
     // baseURL: 'http://172.16.8.21:7104' /*  */
     baseURL: 'http://172.16.8.21:7104'
     // baseURL: 'http://localhost:3004'
-
 }
